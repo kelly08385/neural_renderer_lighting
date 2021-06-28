@@ -1,0 +1,7 @@
+# ninja log v5
+0	6733	1623117441921435430	/home/cai/neural_renderer_torch/build/temp.linux-x86_64-3.8/neural_renderer/cuda/load_textures_cuda_kernel.o	11b7cc8285836dc3
+0	11896	1623117447085564488	/home/cai/neural_renderer_torch/build/temp.linux-x86_64-3.8/neural_renderer/cuda/load_textures_cuda.o	8848030e6d18785c
+0	6924	1623117454241743405	/home/cai/neural_renderer_torch/build/temp.linux-x86_64-3.8/neural_renderer/cuda/rasterize_cuda_kernel.o	152d811bce9a9fae
+0	12671	1623117459989887183	/home/cai/neural_renderer_torch/build/temp.linux-x86_64-3.8/neural_renderer/cuda/rasterize_cuda.o	50cecc203829a644
+0	6436	1623117466666054243	/home/cai/neural_renderer_torch/build/temp.linux-x86_64-3.8/neural_renderer/cuda/create_texture_image_cuda_kernel.o	770b13aac46afff7
+0	11770	1623117472001794254	/home/cai/neural_renderer_torch/build/temp.linux-x86_64-3.8/neural_renderer/cuda/create_texture_image_cuda.o	7206597e823384f8
